@@ -6,3 +6,6 @@
 ![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/4172d57af9bb300cc94be1773ab444e9a4790968/git%20localbazzar%20images/image37.jpg)
 ### Vendor HomePage
 ![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/7275c52d4afb1247e3d2bb9b5edf2418a598bfaa/git%20localbazzar%20images/image38.jpg)
+### Vendor Profile
+![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/c1c1faa86610bd7ff0487afe9e0b8c732e68ac31/git%20localbazzar%20images/image39.jpg)
+
