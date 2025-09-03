@@ -12,6 +12,10 @@
 ![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/1968ccbed55aeb1b9eb63654d26bddcbd99f2ce3/git%20localbazzar%20images/image40.jpg)
 ### Product Details 
 ![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/1968ccbed55aeb1b9eb63654d26bddcbd99f2ce3/git%20localbazzar%20images/image41.jpg)
+### Cart Screen
+![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/1a47dac0427e308028432bced0a778a51beee32c/git%20localbazzar%20images/image42.jpg)
+### My Orders
+
 
 
 
