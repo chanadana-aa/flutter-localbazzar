@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597482293472",
+    "project_id": "localbazzar-82025",
+    "storage_bucket": "localbazzar-82025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597482293472:android:e1cd044e006eb3179d2885",
+        "android_client_info": {
+          "package_name": "com.example.localbazzar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSiLaBD_yETiQUQQZClrhcdUXYLoJy2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
