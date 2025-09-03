@@ -8,4 +8,10 @@
 ![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/7275c52d4afb1247e3d2bb9b5edf2418a598bfaa/git%20localbazzar%20images/image38.jpg)
 ### Vendor Profile
 ![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/c1c1faa86610bd7ff0487afe9e0b8c732e68ac31/git%20localbazzar%20images/image39.jpg)
+### Home Page
+![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/1968ccbed55aeb1b9eb63654d26bddcbd99f2ce3/git%20localbazzar%20images/image40.jpg)
+### Product Details 
+![image alt](https://github.com/chanadana-aa/flutter-localbazzar/blob/1968ccbed55aeb1b9eb63654d26bddcbd99f2ce3/git%20localbazzar%20images/image41.jpg)
+
+
 
